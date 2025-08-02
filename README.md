@@ -25,7 +25,7 @@ Dieses Repository enthält die Lösung zur Analyse technischer Anlagen im Rahmen
 - Fuzzy Matching (difflib) zur intelligenten Artikelnummern-Zuordnung
 - Automatischer Export der Ergebnisse
 
-## 🔧 Technologien
+## Technologien
 
 - Python (Pandas, difflib, OpenPyXL)
 - Jupyter Notebook
